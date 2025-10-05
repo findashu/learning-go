@@ -47,7 +47,7 @@ func newCard() string {
 
 ## List
 
-Go has 2 types data structure to handle list `Array` and `slice`
+Go has 2 types of data structure to handle lists `Array` and `slice`
 
 * Array: Fixed length list of things
 * Slice: An array that grow and shrink, every element in a slice must be of same type 
